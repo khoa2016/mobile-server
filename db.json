@@ -74,6 +74,126 @@
       "date": "Jan 7, 2018",
       "time": "1:00pm"
     }
+  },
+  {
+    "id": 6,
+    "picture": null,
+    "cost": 799999,
+    "numRooms": 3,
+    "numBaths": 1,
+    "size": 1800,
+    "street": "1234 Scott Lane",
+    "city": "San Jose",
+    "state": "CA",
+    "openhouse": {
+      "date": "Jan 7, 2018",
+      "time": "1:00pm"
+    }
+  },
+  {
+    "id": 7,
+    "picture": null,
+    "cost": 799999,
+    "numRooms": 3,
+    "numBaths": 1,
+    "size": 1800,
+    "street": "1234 Scott Lane",
+    "city": "San Jose",
+    "state": "CA",
+    "openhouse": {
+      "date": "Jan 7, 2018",
+      "time": "1:00pm"
+    }
+  },
+  {
+    "id": 8,
+    "picture": null,
+    "cost": 799999,
+    "numRooms": 3,
+    "numBaths": 1,
+    "size": 1800,
+    "street": "1234 Scott Lane",
+    "city": "San Jose",
+    "state": "CA",
+    "openhouse": {
+      "date": "Jan 7, 2018",
+      "time": "1:00pm"
+    }
+  },
+  {
+    "id": 9,
+    "picture": null,
+    "cost": 799999,
+    "numRooms": 3,
+    "numBaths": 1,
+    "size": 1800,
+    "street": "1234 Scott Lane",
+    "city": "San Jose",
+    "state": "CA",
+    "openhouse": {
+      "date": "Jan 7, 2018",
+      "time": "1:00pm"
+    }
+  },
+  {
+    "id": 10,
+    "picture": null,
+    "cost": 799999,
+    "numRooms": 3,
+    "numBaths": 1,
+    "size": 1800,
+    "street": "1234 Scott Lane",
+    "city": "San Jose",
+    "state": "CA",
+    "openhouse": {
+      "date": "Jan 7, 2018",
+      "time": "1:00pm"
+    }
+  },
+  {
+    "id": 11,
+    "picture": null,
+    "cost": 799999,
+    "numRooms": 3,
+    "numBaths": 1,
+    "size": 1800,
+    "street": "1234 Scott Lane",
+    "city": "San Jose",
+    "state": "CA",
+    "openhouse": {
+      "date": "Jan 7, 2018",
+      "time": "1:00pm"
+    }
+  },
+  {
+    "id": 12,
+    "picture": null,
+    "cost": 799999,
+    "numRooms": 3,
+    "numBaths": 1,
+    "size": 1800,
+    "street": "1234 Scott Lane",
+    "city": "San Jose",
+    "state": "CA",
+    "openhouse": {
+      "date": "Jan 7, 2018",
+      "time": "1:00pm"
+    }
+  },
+  {
+    "id": 13,
+    "picture": null,
+    "cost": 799999,
+    "numRooms": 3,
+    "numBaths": 1,
+    "size": 1800,
+    "street": "1234 Scott Lane",
+    "city": "San Jose",
+    "state": "CA",
+    "openhouse": {
+      "date": "Jan 7, 2018",
+      "time": "1:00pm"
+    }
   }
 ]
 }
